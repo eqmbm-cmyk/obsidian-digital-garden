@@ -3,7 +3,8 @@
 ---
  
 # Home Page
-- [MDSP (I).pdf](/img/user/PRIME%20NOTES/MDSP%20(I).pdf)
-- [MESL (I).pdf](/img/user/PRIME%20NOTES/MESL%20(I).pdf)
-- -[MESL (II).pdf](/img/user/PRIME%20NOTES/MESL%20(II).pdf)
-- [PIPE (I).pdf](/img/user/PRIME%20NOTES/PIPE%20(I).pdf)
+- [MDSP (I).pdf](/img/user/Index/PRIME%20NOTES/MDSP%20(I).pdf)
+- [MESL (I).pdf](/img/user/Index/PRIME%20NOTES/MESL%20(I).pdf)
+- -[MESL (II).pdf](/img/user/Index/PRIME%20NOTES/MESL%20(II).pdf)
+- [PIPE (I).pdf](/img/user/Index/PRIME%20NOTES/PIPE%20(I).pdf)
+- [PIPE (II).pdf](/img/user/Index/PRIME%20NOTES/PIPE%20(II).pdf)
